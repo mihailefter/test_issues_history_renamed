@@ -1,3 +1,3 @@
 # test_issues_history
 
-Another commit.
+Another commit for the issue.
